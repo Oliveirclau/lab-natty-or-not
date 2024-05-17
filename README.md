@@ -1,51 +1,28 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Retro-Future Av. Paulista: Avenida em Novas Dimensões ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto visa transformar uma imagem clássica da Avenida Paulista em uma visão futurista ou retro-futurista, mesclando o presente com elementos de um possível futuro tecnológico ou uma estética vintage de sci-fi. O objetivo é explorar como locais conhecidos podem ser imaginados através de uma lente de 'o que poderia ser', utilizando técnicas avançadas de edição de imagem e IA.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **Adobe Photoshop**: Para edição detalhada de imagem, aplicação de efeitos e integração de elementos futuristas.
+- **Plugins de IA para Photoshop**: Utilizados para automação de tarefas complexas, como preenchimento inteligente e ajustes de estilo.
+- **DeepArt**: Para aplicar estilos artísticos específicos à imagem final.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+A criação começou com a escolha de uma fotografia de alta qualidade da Avenida Paulista. Com o GIMP, elementos como veículos voadores e anúncios em holograma foram adicionados, com atenção especial aos ajustes de cor, luz e sombra para uma integração realista. Para adicionar um toque de surrealismo e intensificar o estilo futurista, o Deep Dream Generator foi usado para aplicar texturas automáticas e efeitos que reimaginam o ambiente urbano.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+As imagens resultantes oferecem múltiplas interpretações futurísticas da Avenida Paulista, cada uma apresentando uma fusão única de tecnologia e nostalgia. O impacto visual das imagens convida a uma reflexão profunda sobre como a tecnologia pode alterar nossa percepção de espaços urbanos conhecidos.
+
+**Elementos futurísticos**
+![image](https://github.com/Oliveirclau/lab-natty-or-not/assets/101672993/935d2cbf-d886-4f73-8586-d8fe3b55ec99)
+
+
+**Elementos retro-futurísticos**
+![image](https://github.com/Oliveirclau/lab-natty-or-not/assets/101672993/8fd65cb1-b035-4fa9-bd6a-6a3980223eba)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O desafio de usar IA para criar algo que pareça natural foi intrigante, especialmente ao equilibrar a introdução de elementos futurísticos sem comprometer a autenticidade do local original. Este projeto ilustrou como as ferramentas de IA podem ser poderosas para transformar e reinventar realidades, abrindo caminho para novas formas de arte visual e narrativa.
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
